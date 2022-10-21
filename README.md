@@ -9,8 +9,6 @@ Data changes are captured by a set of triggers attached to Organization table.
 
 Write a stored procedure Proc_FetchEvent to get a "ready to send" XML data representation of each change. 
 
-The transmission 
-
 # Installation
 Open [install.sql](/scripts/install.sql) inside SQL Server Management Studio and enable SQLCMD mode. This option is in the Query menu.
   
